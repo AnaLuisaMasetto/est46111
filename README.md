@@ -87,13 +87,13 @@ Por favor, revisen el [calendario del curso](https://github.com/jcmartinezovando
 
 ## Referencias
 
-* Christensen, Ronald *et al* (2011). *Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians.* CRC Press. [Link](https://www.crcpress.com/Bayesian-Ideas-and-Data-Analysis-An-Introduction-for-Scientists-and-Statisticians/Christensen-Johnson-Branscum-Hanson/p/book/9781439803547) (Disponible en la BRB).
+* Christensen, Ronald *et al* (2011). *Bayesian Ideas and Data Analysis: An Introduction for Scientists and Statisticians.* CRC Press. [[Link]](https://www.crcpress.com/Bayesian-Ideas-and-Data-Analysis-An-Introduction-for-Scientists-and-Statisticians/Christensen-Johnson-Branscum-Hanson/p/book/9781439803547) (Disponible en la BRB).
 
-* Kadane, Joseph (2018) *Principles of Uncertainty.* CRC Press. [Link](https://www.crcpress.com/Principles-of-Uncertainty/Kadane/p/book/9781439861615) (No disponible aún en la BRB, pero puede descargarse [aquí](https://www.stat.cmu.edu/~kadane/principles.pdf)).
+* Kadane, Joseph (2018) *Principles of Uncertainty.* CRC Press. [[Link]](https://www.crcpress.com/Principles-of-Uncertainty/Kadane/p/book/9781439861615) (No disponible aún en la BRB, pero puede descargarse [aquí](https://www.stat.cmu.edu/~kadane/principles.pdf)).
 
 * Kruschke, John (2010). *Doing Bayesian for Data Analysis.* Academic Press. (Disponible en la BRB)
 
-* Wasserman, Larry (2010) *All of Statistics : A Concise Course in Statistical Inference.* Springer. [Link](https://www.springer.com/gp/book/9780387402727) (Disponible en la BRB).
+* Wasserman, Larry (2010) *All of Statistics : A Concise Course in Statistical Inference.* Springer. [[Link]](https://www.springer.com/gp/book/9780387402727) (Disponible en la BRB).
 
 ---
 
